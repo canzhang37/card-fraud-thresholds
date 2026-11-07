@@ -1,0 +1,10 @@
+action_cost,comparison,diff,lo,hi,pct_change
+5.0000,T3_bayes_min_risk - T1_f1_cutoff,-179117.1560,-222203.0326,-139313.4145,-0.5850
+5.0000,T3_bayes_min_risk - T2_cost_cutoff,-55061.5890,-75438.9298,-37836.2502,-0.3023
+5.0000,S1_T3_label_delay - T3_bayes_min_risk,5711.7240,-1112.0942,12345.6663,0.0449
+10.0000,T3_bayes_min_risk - T1_f1_cutoff,-133681.1200,-173194.6892,-96111.2209,-0.4194
+10.0000,T3_bayes_min_risk - T2_cost_cutoff,-61351.7800,-82383.8447,-43436.4405,-0.2490
+10.0000,S1_T3_label_delay - T3_bayes_min_risk,6872.4940,-7338.8167,23487.0613,0.0371
+25.0000,T3_bayes_min_risk - T1_f1_cutoff,-86490.8820,-118889.9540,-53447.0596,-0.2428
+25.0000,T3_bayes_min_risk - T2_cost_cutoff,-73905.4590,-95966.2641,-53240.1562,-0.2151
+25.0000,S1_T3_label_delay - T3_bayes_min_risk,8754.1790,-7293.5063,30219.8008,0.0325
